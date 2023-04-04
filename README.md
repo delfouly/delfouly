@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Donia</h1>
 <h3 align="center">A passionate mobile developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/donia-el-fouly-react-native/details/experience/](https://www.linkedin.com/in/donia-el-fouly-react-native/details/experience/)
+- 👨‍💻 All my projects are available at [https://www.linkedin.com/in/donia-el-fouly-react-native/details/experience/](https://www.linkedin.com/in/donia-el-fouly-react-native/details/experience/)
 
 - 💬 Ask me about **Javascript**, **Typescript**, **React Native**, **ReactJS**, **NodeJS**
 
-- 📫 How to reach me **donia.elfouly@gmail.com** Or **(+2011 4839 8835)**
+- 📫 Reach me at **donia.elfouly@gmail.com** Or **+2011 4839 8835**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/donia-el-fouly-react-native/details/featured/](https://www.linkedin.com/in/donia-el-fouly-react-native/details/featured/)
+- 📄 Know more about my experience at [https://www.linkedin.com/in/donia-el-fouly-react-native/details/featured/](https://www.linkedin.com/in/donia-el-fouly-react-native/details/featured/)
 
-- ⚡ Fun fact **I speak 4 languages**
+- ⚡ Fun fact **I speak 4 languages** 
 
 
 <p align="left">
