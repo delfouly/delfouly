@@ -3,7 +3,7 @@
 
 - 👨‍💻 All my projects are available at [https://www.linkedin.com/in/donia-el-fouly-react-native/details/experience/](https://www.linkedin.com/in/donia-el-fouly-react-native/details/experience/)
 
-- 💬 Ask me about **Javascript**, **Typescript**, **React Native**, **ReactJS**, **NodeJS**
+- 💬 Ask me about **Javascript**, **Typescript**, **React Native**, **ReactJS**, **NodeJS**,  **MongoDB**,  **Express**,  **Redux**
 
 - 📫 Reach me at **donia.elfouly@gmail.com** Or **+2011 4839 8835**
 
