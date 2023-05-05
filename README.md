@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donia</h1>
-<h3 align="center">A passionate mobile developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 - 👨‍💻 All my projects are available at [https://www.linkedin.com/in/donia-el-fouly-react-native/details/experience/](https://www.linkedin.com/in/donia-el-fouly-react-native/details/experience/)
 
